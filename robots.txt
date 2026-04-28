@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /archives/
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /page/
+
+Sitemap: https://moruoyiming.github.io/sitemap.xml
+Sitemap: https://moruoyiming.github.io/baidusitemap.xml
